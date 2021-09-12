@@ -45,12 +45,12 @@ I work in a clinical maternity hospital in Minsk region from May 2019 to the pre
 
 ### Education:
 
-Belarusian State University. Faculty of Radiophysics and Computer Technologies (2015-2019)
-Education center "Leader". English language level Pre-Intermediate(A2) (2018-2019)
-Education center "Leader". English language level Intermediate(B1) (2019)
+- Belarusian State University. Faculty of Radiophysics and Computer Technologies (2015-2019)
+- Education center "Leader". English language level Pre-Intermediate(A2) (2018-2019)
+- Education center "Leader". English language level Intermediate(B1) (2019)
 
 ### Launguage:
 
-Russian - Native
-Belarusian - Native
-English - A2/B1
+- Russian - Native
+- Belarusian - Native
+- English - A2/B1
