@@ -3,10 +3,10 @@
 
 ### Contacts for communication:
 
-**telephone:** +375(29) 873-14-85<br>
-**email:**  volohanoch@mail.ru, v.volohanovich@gmai.com<br>
+**Telephone:** +375(29) 873-14-85<br>
+**E-mail:**  volohanoch@mail.ru, v.volohanovich@gmail.com<br>
 **GitHub:** [VolohaVlad](https://github.com/VolohaVlad)<br>
-**LinkedId:** [VolohaVlad](https://www.linkedin.com/in/vlad-volokhanovich-413298213/)<br>
+**LinkedIn:** [VolohaVlad](https://www.linkedin.com/in/vlad-volokhanovich-413298213/)<br>
 
 ### About myself:
 
@@ -52,5 +52,5 @@ Education center "Leader". English language level Intermediate(B1) (2019)
 ### Launguage:
 
 Russian - Native
-Belorussian - Native
+Belarusian - Native
 English - A2/B1
