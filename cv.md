@@ -4,7 +4,7 @@
 ### Contacts for communication:
 
 **Telephone:** +375(29) 873-14-85<br>
-**E-mail:**  volohanoch@mail.ru, v.volohanovich@gmail.com<br>
+**E-mail:**  volohanovich@mail.ru, v.volohanovich@gmail.com<br>
 **GitHub:** [VolohaVlad](https://github.com/VolohaVlad)<br>
 **LinkedIn:** [VolohaVlad](https://www.linkedin.com/in/vlad-volokhanovich-413298213/)<br>
 
