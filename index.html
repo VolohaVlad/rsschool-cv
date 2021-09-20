@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="utf-8">
+        <title>Uladzislau Valakhanovich</title>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+    </head>
+    <body class="page-body">
+        <aside class="left-side">
+            <header class="photo-section">
+                <img class="photo" src = 'img/photo.png' alt ='VolohaVlad'>
+            </header>
+            <section class="contact-section">
+                <h2 class="left-head"> Contacts </h2>
+                <ul class = "contact-list">
+                    <li class= "contact-elem"> Address: <br> Kuntsevshchina street 21, Minsk, 220017</li>
+                    <li class= "contact-elem"> Telephone: <br> <a href="tel:+375(29) 8731485"> +375(29) 8731485</a></li>
+                    <li class= "contact-elem"> E-mail:<br> <a href="mailto:volohanovich@mail.ru"> volohanovich@mail.ru </a> </li>
+                </ul>
+            </section>
+            <section class="skills-section">
+                <h2 class="left-head"> Skills </h2>
+                <ul class = "skills-list">
+                    <li class= "skills-elem">HTML5</li>
+                    <li class= "skills-elem">CSS3</li>
+                    <li class= "skills-elem">Javascript (basic)</li>
+                    <li class= "skills-elem">C# (basic, entity framework, wpf, wcf)</li>
+                    <li class= "skills-elem">MSSQL</li>
+                    <li class= "skills-elem">Git</li>
+                    <li class= "skills-elem">VSCode, Visual Studio 2019</li>
+                    <li class= "skills-elem">Windows, Linux</li>
+                  </ul>
+            </section>
+            <section class="language-section">
+                <h2 class="left-head">Language</h2>
+                <ul class = "language-list">
+                    <li class= "language-elem">Russian - Native</li>
+                    <li class= "language-elem">Belarusian - Native</li>
+                    <li class= "language-elem">English - A2/B1</li>
+                  </ul>
+            </section>
+        </aside>
+        <main class="right-side">
+            <section class="title-section">
+                <h1 class="name-title"> Uladzislau Valakhanovich </h1>
+                <h2 class="spec-title"> Future Frontend Developer</h2>
+            </section>
+            <section class="about-section">
+                <h3 class="about-title"> About myself:</h3>
+                <p class="about-text">
+                    I am a responsible, capable and quick-witted young man. 
+                    I work as an engineer in a medical institution. 
+                    I want to change jobs and become a full-stack developer. 
+                    This is my way of shinobi!
+                </p>
+            </section>
+            <section class="education-section">
+                <h3 class="education-title"> Education </h3>
+                <ul class = "education-list">
+                    <li class="education-elem">
+                        Belarusian State University. Faculty of Radiophysics and Computer Technologies (2015-2019)
+                    </li>
+                    <li class="education-elem">
+                        Education center "Leader". English language level Pre-Intermediate(A2) (2018-2019)
+                    </li>
+                    <li class="education-elem">
+                        Education center "Leader". English language level Intermediate(B1) (2019)
+                    </li>
+                </ul>
+            </section>
+            <section class="work-section">
+                <h3 class="work-title"> Work experience </h3>
+                <ul class="work-list">
+                    <li class="work-elem">
+                        Clinical maternity hospital in Minsk region (May 2019 to the present)
+                    </li>
+                </ul>
+            </section>
+            <section class="code-section">
+                <h3 class="code-title"> Code example</h3>
+                <p class="code-description"> Given a string made of digits [0-9], 
+                    return a string where each digit is 
+                    repeated a number of times equals to its value </p>
+                <pre class="code">
+                    function explode(s) {
+                        let result = '';
+                            for(let ch of s){
+                            for(let i = 0; i < ch; i++){
+                                result +=ch;
+                            }
+                        }
+                        return result;
+                    }
+                </pre>
+            </section>
+        </main>
+        <footer class="footer">
+            <a class="footer-git" href="https://github.com/VolohaVlad"> My GitHub </a>
+            <h6 class="footer-date"> 2021 </h6>
+            <a class="footer-rss" href="https://rs.school/js/">
+                    <img src="img/rs_school_js.svg" width="86" height="32" alt="RS School">
+                </a>
+        </footer>
+    </body>
+</html>
