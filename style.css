@@ -26,7 +26,7 @@ html {
 
 .burger {
     display: none;
-  }
+}
 
 .nav-list {
     display: flex;
@@ -36,14 +36,17 @@ html {
     padding: 0;
     list-style: none;
 }
+
 .nav a {
     padding: 14px 10px;
     line-height: 50px;
     color: black;
 }
+
 .nav a:hover {
-    background-color: #f2c100;
+    background-color: #d58401;
 }
+
 .nav a:active {
     color: white;
     text-decoration: none;
