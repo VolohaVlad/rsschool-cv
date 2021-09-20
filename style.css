@@ -1,0 +1,38 @@
+.page-body {
+    width: 965px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    font-family: "Poppins", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    color: black;
+    display: grid;
+    grid-template-columns: 230px 735px;
+}
+
+.left-side {
+    color: white;
+    background: linear-gradient(to right, #3c3f44 50%, #32353a 50%);
+}
+.right-side  {
+    background-color: rgba(0, 0, 0, 0.1)
+}
+.photo-section{
+    text-align: center;
+    height: 230px;
+    background-color: #282b30;
+}
+.photo{
+    margin-top: 15px;
+    border-radius: 50%;
+}
+
+footer{
+    width: 965px;
+    display:  grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    background-color: yellow;
+}

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class>
+<html lang="eng">
     <head>
         <meta charset="utf-8">
         <title>Uladzislau Valakhanovich</title>
@@ -9,6 +9,98 @@
         <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
     </head>
     <body class="page-body">
-        
+        <aside class="left-side">
+            <header class="photo-section">
+                <img class="photo" src = 'photo.png' alt ='VolohaVlad'>
+            </header>
+            <section class="contact-section">
+                <h2> Contacts </h2>
+                <ul>
+                    <li>Address: <br> Kuntsevshchina street 21, Minsk, 220017</li>
+                    <li>Telephone: <br> <a href="tel: +375(29) 8731485"> +375(29) 8731485</a></li>
+                    <li>E-mail:<br> <a href="mailto: volohanovich@mail.ru"> volohanovich@mail.ru </a> </li>
+                </ul>
+            </section>
+            <section class="skills-section">
+                <h2> Skills </h2>
+                <ul>
+                    <li>HTML5</li>
+                    <li>CSS3</li>
+                    <li>Javascript (basic)</li>
+                    <li>C# (basic, entity framework, wpf, wcf)</li>
+                    <li>MSSQL</li>
+                    <li>Git</li>
+                    <li>VSCode, Visual Studio 2019</li>
+                    <li>Windows, Linux</li>
+                  </ul>
+            </section>
+            <section class="language-section">
+                <h2>Language</h2>
+                <ul>
+                    <li>Russian - Native</li>
+                    <li>Belarusian - Native</li>
+                    <li>English - A2/B1</li>
+                  </ul>
+            </section>
+        </aside>
+        <main class="right-side">
+            <section>
+                <h1> Uladzislau Valakhanovich </h1>
+                <h2> Future Frontend Developer</h2>
+            </section>
+            <section>
+                <h3> About myself:</h3>
+                <p>
+                    I am a responsible, capable and quick-witted young man. 
+                    I work as an engineer in a medical institution. 
+                    I want to change jobs and become a full-stack developer. 
+                    This is my way of shinobi!
+                </p>
+            </section>
+            <section>
+                <h3> Education </h3>
+                <ul>
+                    <li>
+                        Belarusian State University. Faculty of Radiophysics and Computer Technologies (2015-2019)
+                    </li>
+                    <li>
+                        Education center "Leader". English language level Pre-Intermediate(A2) (2018-2019)
+                    </li>
+                    <li>
+                        Education center "Leader". English language level Intermediate(B1) (2019)
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <h3> Work experience </h3>
+                <ul>
+                    <li>
+                        Clinical maternity hospital in Minsk region (May 2019 to the present)
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <h3> Code example</h3>
+                <p> Given a string made of digits [0-9], 
+                    return a string where each digit is 
+                    repeated a number of times equals to its value </p>
+                <code>
+                    function explode(s) {
+                        let result = '';
+                            for(let ch of s){
+                            for(let i = 0; i < ch; i++){
+                                result +=ch;
+                            }
+                        }
+                        return result;
+                    }
+                </code>
+            </section>
+        </main>
+        <footer>
+            <a href="https://github.com/VolohaVlad"> GitHub </a>
+            <h6> 2021 </h6>
+            <a href="https://rs.school/js/"> rsschool</a>
+        </footer>
     </body>
 </html>
