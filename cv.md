@@ -10,7 +10,7 @@
 
 ### About myself:
 
-I am a responsible, capable, communicative, flexible and quick-witted young man. I am open for constructive feedback and good with time management. My hobbies are listening to music, playing the guitar and reading technical literature.
+I am a responsible, capable, communicative, flexible and quick-witted young man. Open for constructive feedback and good with time management. My hobbies are listening to music, playing the guitar and reading technical literature.
 
 ### Skills:
 
@@ -46,7 +46,7 @@ function addLogo() {
 ### Work experience:
 
 - Clinical maternity hospital in Minsk region - Electronics engineer | May 2019 - January 2022
-- ISsoft solutions - .Net Fullstack Developer | February 2022 — November 2022
+- ISsoft solutions - .Net Fullstack Developer | February 2022 - November 2022
 - System Technologies - Web Developer | December 2022 to present
 
 ### Education:
