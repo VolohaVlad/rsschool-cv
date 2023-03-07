@@ -27,3 +27,36 @@ I am a responsible, capable, communicative, flexible and quick-witted young man.
 - VSCode, Visual Studio 2022
 - SQL Server Management Studio
 - Postman, Swagger
+
+### Code example:
+
+```javascript
+function addLogo() {
+    document.getElementById("deleteLogoButton").style.visibility = "visible";
+    const input = document.getElementById("fileElem");
+    const fReader = new FileReader();
+    fReader.readAsDataURL(input.files[0]);
+    fReader.onloadend = function (event) {
+        const img = document.getElementById("img");
+        img.src = event.target.result;
+    };
+}
+```
+
+### Work experience:
+
+- Clinical maternity hospital in Minsk region - Electronics engineer | May 2019 - January 2022
+- ISsoft solutions - .Net Fullstack Developer | February 2022 — November 2022
+- System Technologies - Web Developer | December 2022 to present
+
+### Education:
+
+- Belarusian State University. Faculty of Radiophysics and Computer Technologies (2015-2019)
+- Education center "Leader". English language level Pre-Intermediate(A2) (2018-2019)
+- Education center "Leader". English language level Intermediate(B1) (2019)
+
+### Launguage:
+
+- Russian - Native
+- Belarusian - Native
+- English - B1
